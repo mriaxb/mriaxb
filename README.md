@@ -15,13 +15,13 @@
 
 <h2 align="left">My Github Stats</h2>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mriaxb&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriaxb&layout=compact&theme=aura&langs_count=9" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mriaxb&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriaxb&layout=compact&theme=aura&langs_count=9"/>
   <img height="150" />
 <br>
 
 <br/>
-<h2 align="left"> 🔥 My contribution streak <h2/>
+<h2 align="left" margin-top="10px"> 🔥 My contribution streak <h2/>
 <p align="center">
   <br>
   	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriaxb&theme=holi-theme">
