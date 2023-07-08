@@ -21,11 +21,10 @@
 <br><br>
 
 
-## 🔥 My contribution streak
-
 <p align="center">
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriaxb&theme=holi-theme">
+	<h2/> 🔥 My contribution streak <h2>
+  	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriaxb&theme=holi-theme">
 </p>
 
 
