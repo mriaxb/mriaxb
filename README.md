@@ -19,11 +19,6 @@
 <br>
 
 <br/>
-<h2 align="left">My contributions</h2>
-<p align="center">
-  <br>
-  	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriaxb&theme=holi-theme">
-</p>
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
