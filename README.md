@@ -16,12 +16,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mriaxb&count_private=true&show_icons=true&theme=tokyonight"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriaxb&layout=compact&theme=aura&langs_count=9"/>
   <img height="150" />
-<br>
+<br/>
 
 <br/>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
